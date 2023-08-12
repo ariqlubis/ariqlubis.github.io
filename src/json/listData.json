@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "nama": "John Doe",
+            "no.telepon": "123-456-7890",
+            "alamat": "123 Main Street"
+        },
+        {
+            "id": 2,
+            "nama": "Jane Smith",
+            "no.telepon": "987-654-3210",
+            "alamat": "456 Elm Avenue"
+        },
+        {
+            "id": 3,
+            "nama": "Bob Johnson",
+            "no.telepon": "555-555-5555",
+            "alamat": "789 Oak Road"
+        }
+    ]
+}
